@@ -4,14 +4,14 @@ let age = prompt("Введите возраст...")
 
 console.log(`Welcome ${name} ${surname}, your age is ${age}`);
 
-let num1 = 5
-let num2 = 5
+// let num1 = 5
+// let num2 = 5
 
- alert(num1 + num2)
- alert(num1 - num2)
- alert(num1 * num2)
- alert(num1 / num2)
- alert(num1 % num2)
+//  alert(num1 + num2)
+//  alert(num1 - num2)
+//  alert(num1 * num2)
+//  alert(num1 / num2)
+//  alert(num1 % num2)
 
 let num1 = +prompt('введите первое число')
 let num2 = +prompt('введите второе число')
